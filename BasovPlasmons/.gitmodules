@@ -1,0 +1,3 @@
+[submodule "BokehPlasmons"]
+	path = BokehPlasmons
+	url = https://github.com/magittan/BokehPlasmons.git

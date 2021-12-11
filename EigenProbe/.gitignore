@@ -1,0 +1,9 @@
+config_files/common/
+config_files/NearFieldOptics/
+__pycache__/
+__pycache__/*
+.ipynb_checkpoints/
+*.bak
+*.pyc
+*.log
+.DS_Store

@@ -1,0 +1,1 @@
+from EigenProbe import *  #Legacy support

@@ -1,0 +1,9 @@
+[submodule "NearFieldOptics"]
+	path = NearFieldOptics
+	url = https://github.com/asmcleod/NearFieldOptics
+[submodule "common"]
+	path = common
+	url = https://github.com/asmcleod/common
+[submodule "Spectral"]
+	path = Spectral
+	url = https://github.com/meberko/Spectral
